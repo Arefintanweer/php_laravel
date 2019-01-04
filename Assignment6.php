@@ -70,7 +70,7 @@ $queue->enqueue(5);
 echo $queue->dequeue()."\n";
 echo $queue->dequeue()."\n";
 
-//3
+//3 unsolved
 
 //4
 $stdin = fopen('php://stdin', 'r');
