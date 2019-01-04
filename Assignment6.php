@@ -1,5 +1,5 @@
 <?php 
-//1
+//1 Stack
 class stack
 {
     private $stack;
@@ -34,7 +34,7 @@ echo $stack->pop()."\n";
 //echo $stack->pop()."\n";
 //echo $stack->pop()."\n";
 
-//2
+//2 Queue
 class queue
 {
     private $queue;
@@ -70,9 +70,9 @@ $queue->enqueue(5);
 echo $queue->dequeue()."\n";
 echo $queue->dequeue()."\n";
 
-//3 unsolved
+//3
 
-//4
+//4 Palindrome
 $stdin = fopen('php://stdin', 'r');
 $stdout = fopen('php://stdout', 'w');
 
@@ -89,7 +89,7 @@ else
     echo "No";
 }
 
-//5
+//5 Factorial 
 $factorial = 1;
 
 for($i=1;$i<=15;$i++)
