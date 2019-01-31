@@ -1,0 +1,108 @@
+header{
+    width:100%;
+    height:40px;
+    background:darkcyan;
+    font-size: xx-large;
+    color:white;
+    text-align: center;
+}
+h1{
+    width:100%;
+    height:40px;
+    background:darkcyan;
+    font-size: xx-large;
+    color:white;
+    text-align: left;
+}
+body{
+    font-size:large;
+}
+.section1{
+    width:100%;
+    height:900;
+    margin-top: 10px;
+}
+
+.common{
+    float:left;
+}
+.photoAndInfo{
+    width: 33%;
+    height:1150px;
+    background: darkcyan;
+    margin-top:24px; 
+}
+.photoAndInfo img{
+    height: 500px;
+    width: 100%;
+}
+.rightside{
+    width:66%;
+    height:930px;
+    margin-left: 10px;
+    margin-top: 4px;
+}
+.carrerObjectives{
+    width:100%;
+    margin-bottom:10px;
+}
+.educationalQualification{  
+    width:100%;  
+}
+.areaOfInterest{
+    width:100%;
+}
+.skills{
+    width:100%; 
+}
+.section2{
+    width:100%;
+    height:670px;
+    background:white;
+    margin-top:1220px;
+}
+
+ul{
+    list-style: square;
+}
+.commonRef{
+    width:50%;
+    float:left;
+}
+.photoAndInfo h3{
+    text-align: center;
+    color:white;
+    margin-top: 10px;
+}
+.photoAndInfo h4{
+    text-align: center;
+    color:white;
+    margin-top: 10px;
+}
+.photoAndInfo a{
+    color:white;
+}
+i.fa-home{
+    margin-left: 150px;
+    color: white;
+}
+i.fa-envelope{
+   margin-left: 155px;
+   color: white;   
+}
+i.fa-mobile-alt{
+    margin-left: 160px;
+    color: white;
+}
+i.fa-github{
+    margin-left: 155px;
+    color: white;
+}
+i.fa-stack-overflow{
+    margin-left: 155px;
+    color:white;
+}
+i.fa-facebook-square{
+    margin-left: 160px;
+    color:white;
+}
