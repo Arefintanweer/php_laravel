@@ -1,0 +1,31 @@
+.mainBody{
+    width: 600px;
+    height: 550px;
+    background:darkcyan;
+    margin-left: 300px;
+}
+h2{
+    text-align: center;
+}
+h3{
+    margin-left:50px;
+}
+textarea{
+    width:80%;
+    height:100px;
+    margin-left:50px;
+}
+input{
+    width:80px;
+    height:50px;
+    margin-left:450px;
+}
+.buttons{
+    margin-top:10px;
+    margin-left:50px;
+}
+button{
+    width:50px;
+    height:30px;
+    background: darkgrey;
+}
