@@ -1,6 +1,12 @@
+*{
+    margin:0;
+}
+body{
+    background: darkgray
+}
 .mainBody{
     width: 600px;
-    height: 550px;
+    height: 570px;
     background:darkcyan;
     margin-left: 300px;
 }
